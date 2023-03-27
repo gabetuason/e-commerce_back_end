@@ -44,6 +44,8 @@ For correct usage. Run the following commands in your terminal:
 After installing the required files/packages above and running the commands. In your prefered terminal type: `npm start`. At this point you can use a REST client such as insomnia (https://insomnia.rest/) to look through and change the databases. There is GET, POST(create), PUT(update) and DELETE requests. For example to view all categories user should choose GET option and type: `http://localhost:3001/api/categories/`. Please view the API routes folder and screenshots(images folder) with the CRUD operations to understand working routes.
 
 Examples of working routes:
+
+
 ![screenshot](https://github.com/gabetuason/e-commerce_back_end/blob/develop/images/insomniaCRUD.JPG)
 
 Please view video demonstration below for example of usage.
